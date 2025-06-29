@@ -16,6 +16,15 @@ Team-Task-Manager mit Drag-and-Drop, Kanban-Ansicht und Angular – inspiriert v
 
 ---
 
+## 📊 Meine WakaTime Stats
+
+![WakaTime Gesamtzeit](https://wakatime.com/badge/user/dein-username.svg)  
+![WakaTime Streak](https://wakatime.com/badge/user/dein-username/streak.svg)  
+![WakaTime Sprachen](https://wakatime.com/badge/user/dein-username/languages.svg)  
+![WakaTime 7 Tage](https://wakatime.com/badge/user/dein-username/last_7_days.svg)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Frontend:**  
