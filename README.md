@@ -1,4 +1,6 @@
-<h1 align="center">Hi, ich bin Anne 👋</h1>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f4c5c&height=180&section=header&text=Hi,%20ich%20bin%20Anne&fontColor=ffffff&fontSize=36&animation=fadeIn"/>
+
 <p align="center">Kreative Junior Frontend Developerin mit Blick fürs Detail, Herz für Design und Leidenschaft für interaktive Webprojekte.</p>
 
 ---
@@ -18,7 +20,6 @@ Team-Task-Manager mit Drag-and-Drop, Kanban-Ansicht und Angular – inspiriert v
 ## 📊 GitHub Stats
 
 ![anne-dalchow's GitHub stats](https://github-readme-stats.vercel.app/api?username=anne-dalchow&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anne-dalchow&layout=compact&theme=radical)
 ---
 
@@ -53,3 +54,6 @@ Ich liebe es, technische Ideen visuell greifbar zu machen. Egal ob animierte Int
 ---
 
 _✨ Dieses README wird stetig erweitert – schau gern wieder vorbei!_
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f4c5c&height=120&section=footer"/>
