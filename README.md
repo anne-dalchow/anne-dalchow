@@ -15,15 +15,11 @@ Ein spaßiges 2D-Jump’n’Run im Stil von Super Mario – komplett in JavaScri
 Team-Task-Manager mit Drag-and-Drop, Kanban-Ansicht und Angular – inspiriert vom Design von Jira.
 
 ---
+## 📊 GitHub Stats
 
-## 📊 Meine WakaTime Stats
+![anne-dalchow's GitHub stats](https://github-readme-stats.vercel.app/api?username=anne-dalchow&show_icons=true&theme=radical)
 
-![WakaTime Gesamtzeit](https://wakatime.com/badge/user/e0dc0ec1-88cd-4d3c-8473-281396e2fd83.svg)  
-![WakaTime Streak](https://wakatime.com/badge/user/e0dc0ec1-88cd-4d3c-8473-281396e2fd83/streak.svg)  
-![WakaTime Sprachen](https://wakatime.com/badge/user/e0dc0ec1-88cd-4d3c-8473-281396e2fd83/languages.svg)  
-![WakaTime 7 Tage](https://wakatime.com/badge/user/e0dc0ec1-88cd-4d3c-8473-281396e2fd83/last_7_days.svg)
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anne-dalchow&layout=compact&theme=radical)
 ---
 
 ## 🛠️ Tech Stack
