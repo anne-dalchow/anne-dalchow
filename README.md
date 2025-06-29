@@ -1,7 +1,7 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f4c5c&height=180&section=header&text=Hi,%20ich%20bin%20Anne&fontColor=ffffff&fontSize=36&animation=fadeIn"/>
 
-<h3 align="center">Kreative Junior Frontend Developerin mit Blick fürs Detail, Herz für Design und Leidenschaft für interaktive Webprojekte.</h3>
+<h3 align="center">Kreative Junior Frontend Developerin mit Blick fürs Detail, Herz für Design <br> und Leidenschaft für interaktive Webprojekte.</h3>
 
 ---
 
