@@ -17,11 +17,6 @@ Ein spaßiges 2D-Jump’n’Run im Stil von Super Mario – komplett in JavaScri
 Team-Task-Manager mit Drag-and-Drop, Kanban-Ansicht und Angular – inspiriert vom Design von Jira.
 
 ---
-## 📊 GitHub Stats
-
-![anne-dalchow's GitHub stats](https://github-readme-stats.vercel.app/api?username=anne-dalchow&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anne-dalchow&layout=compact&theme=radical)
----
 
 ## 🛠️ Tech Stack
 
